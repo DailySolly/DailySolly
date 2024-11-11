@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm the creator of **DailySolly**, a platform dedi
 - 💞️ I’m looking to collaborate on open-source projects that make a difference and foster community growth.
 - 📫 How to reach me:
   - Email: [support@dailysolly.eu](mailto:support@dailysolly.eu)
-  - Telegram: [@DailySolly_bot](https://t.me/DailySolly_bot)
+  - Telegram: [@DailySolly]([https://t.me/DailySolly_bot](https://t.me/dailysolly))
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once built a fully functional app in 24 hours during a hackathon!
 
